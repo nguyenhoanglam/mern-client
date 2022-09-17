@@ -4,7 +4,6 @@ import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 
 import { usePostContext } from '../../services/contexts/PostContext';
-import { AddNewPost } from '../../types/post';
 
 interface AddPostModalProps {}
 
